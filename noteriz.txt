@@ -1,0 +1,21 @@
+create new folder project
+>>create-react-app . --typescript
+
+>>npx create-react-app app-color --template typescript
+
+create tsconfig.json
+>>npx tsc --init
+
+>>npm start
+>>react-script start
+>>npm i node-sass
+
+
+
+
+
+
+
+
+
+
